@@ -9,7 +9,6 @@ class Expression:
         print("The sum is:", result)
 
 
-# Creating objects and calling the method
 exp1 = Expression(10, 20, 30)
 exp1.add_numbers()
 
